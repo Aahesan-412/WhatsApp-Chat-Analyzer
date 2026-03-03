@@ -6,3 +6,4 @@ seaborn
 nltk
 wordcloud
 emoji
+urlextract
